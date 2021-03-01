@@ -1,5 +1,5 @@
 
-## 自己的收集使用教程具体找  作者  
+## 自己的收集使用教程具体找 1111 作者  
  ### fork 好后，点击 Settings 、 secrets 、 New repository secrets 进行添加相关数据
  参数如下：  
 |  Name | Value  |
